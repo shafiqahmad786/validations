@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# A function to check validation of username
 
 def vailidate_user(username, minlen):
     """Checks if the recieved username matches the required conditions."""
